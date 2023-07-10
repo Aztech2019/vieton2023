@@ -1,0 +1,13 @@
+##KHÁC
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="ncm" tvg-logo="https://i.upanh.org/2020/08/22/NCM_BTV10_logo.png",VOVNEW
+https://livecdn-vthcm-vnw.vieon.vn/livetv/bb305bfd08f9d3d190fb13b64a906fbc/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="anvien" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên BTV9
+https://livecdn-vthcm-vnw.vieon.vn/livetv/bb305bfd08f9d3d190fb13b64a906fbc/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="antv" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV
+https://livecdn-vthcm-vnw.vieon.vn/livetv/0b31e022261adf9fc6ce82660ed452d1/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="qpvn" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png",QPVN
+https://livecdn-vthcm-vnw.vieon.vn/livetv/fc5f01a96c49d406910925ef5f5cb48b/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="quochoi" tvg-logo="https://mytv.com.vn/upload/channel/71.png",QUỐC HỘI TV
+https://livecdn-vthcm-vnw.vieon.vn/livetv/fb86bc1b6dbac1c4371c4bc1182b6ac3/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="ndtv" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",NHÂN DÂN TV
+https://livecdn-vthcm-vnw.vieon.vn/livetv/45c80ff751c4969a30273fe7229ebfb2/playlist.m3u8
